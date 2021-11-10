@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pujanpaudel/static/css/main.e1157af2.chunk.css",
+    "main.js": "/pujanpaudel/static/js/main.5f09cc3c.chunk.js",
+    "main.js.map": "/pujanpaudel/static/js/main.5f09cc3c.chunk.js.map",
+    "runtime-main.js": "/pujanpaudel/static/js/runtime-main.88be7a51.js",
+    "runtime-main.js.map": "/pujanpaudel/static/js/runtime-main.88be7a51.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/pujanpaudel/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.1425f718.chunk.js": "/pujanpaudel/static/js/2.1425f718.chunk.js",
+    "static/js/2.1425f718.chunk.js.map": "/pujanpaudel/static/js/2.1425f718.chunk.js.map",
+    "index.html": "/pujanpaudel/index.html",
+    "precache-manifest.cb7f7588ac785da56e9ad3e76c5af7f5.js": "/pujanpaudel/precache-manifest.cb7f7588ac785da56e9ad3e76c5af7f5.js",
+    "service-worker.js": "/pujanpaudel/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/pujanpaudel/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.e1157af2.chunk.css.map": "/pujanpaudel/static/css/main.e1157af2.chunk.css.map",
+    "static/media/main.jpeg": "/pujanpaudel/static/media/main.ed4fb1da.jpeg",
+    "static/media/paper1.png": "/pujanpaudel/static/media/paper1.9014bd9c.png",
+    "static/media/picture.jpeg": "/pujanpaudel/static/media/picture.994bfb08.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88be7a51.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.1425f718.chunk.js",
+    "static/css/main.e1157af2.chunk.css",
+    "static/js/main.5f09cc3c.chunk.js"
+  ]
+}
